@@ -7,7 +7,7 @@
     "node": "12.18.2"
   },
   "scripts": {
-    "start": "cross-env NODE_ENV=production MONGO_USER=mubin MONGO_PASSWORD=mubin007 MONGO_DEFAULT_DATABASE=storybooks GOOGLE_CLIENT_ID=733056809670-l0et4pihi8uc0rk2kb3q8smd2mke4jiq.apps.googleusercontent.com GOOGLE_CLIENT_SECRET=vA5ZCLmxISzxLVRHAFXA4DPI node app",
+    "start": "cross-env NODE_ENV=production MONGO_USER= MONGO_PASSWORD= MONGO_DEFAULT_DATABASE=storybooks GOOGLE_CLIENT_ID= GOOGLE_CLIENT_SECRET= node app",
     "dev": "cross-env NODE_ENV=development nodemon app"
   },
   "author": "Mubin",
